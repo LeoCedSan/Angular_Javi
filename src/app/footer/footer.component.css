@@ -1,0 +1,25 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #e7e7e7;
+    color: #6c757d;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    z-index: 1000;
+    box-shadow: 0px -2px 5px 0px #e7e7e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+}
+
+svg{
+    height: 20px;
+}
