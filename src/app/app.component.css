@@ -7,3 +7,7 @@ main{
     color: #333;
     text-align: center;
 }
+
+body{
+    margin: 0;
+}
